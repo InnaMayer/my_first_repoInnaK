@@ -15,3 +15,5 @@ git branch -M main
 git push -u origin main
 
 Добавила текст, через браузер.
+
+Добавила текст локально
