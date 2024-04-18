@@ -13,3 +13,5 @@ git push -u origin main
 git remote add origin https://github.com/InnaMayer/my_first_repoInnaK.git
 git branch -M main
 git push -u origin main
+
+Добавила текст, через браузер.
